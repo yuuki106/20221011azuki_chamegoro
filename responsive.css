@@ -68,7 +68,7 @@
         padding-top: 80px;
     }
     .phoneText-top{
-        width: 90%;
+        width: 95%;
         margin:50px auto 0 auto;
         font-size:21px;
         background: linear-gradient(transparent 0%, transparent 0%, hsla(0, 0%, 100%, 0.082) 80%, #00ff1a 100%);
@@ -97,7 +97,7 @@
         height: auto;
     }
     .news-inner h2{
-        font-size: 14px;
+        font-size: 12px;
     }
     /*--------------------------------------------------*/
 
